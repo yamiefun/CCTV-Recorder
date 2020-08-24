@@ -1,4 +1,4 @@
-# CCTV-Video-Recorder
+# CCTV-Recorder
 
 This program can record multiple CCTV videos at the same time using python3 and opencv.
 + Usage:
